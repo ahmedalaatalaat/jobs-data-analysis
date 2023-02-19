@@ -9,7 +9,7 @@
 ![plotly_version](https://img.shields.io/badge/Plotly-v5.13.0-3F4F75?style=for-the-badge&logo=Plotly)
 ![MIT_License](https://img.shields.io/badge/License-MIT-9e1e32?style=for-the-badge&logo=)
 
-<h1 align="center"> Jobs in Egypt Analysis</h1>
+<h1 align="center"> Jobs in Egypt Data Analysis</h1>
 In this project I have tried to practice my data analysis skills by getting data from the internet clean it makes it ready for analysis then came up with some questions that may be useful in the business
 
 
