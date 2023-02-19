@@ -24,11 +24,11 @@ Live Demo: https://www.ahmedel-kady.com/jobs_project/jobs/
 
 
 ## 💾 Phase 1 Data Collection:
-In this phase, I wanted to scrape Goodreads using Selenium and BeautifulSoup. However, I couldn't find a structure for the site or proper filters to extract the data, so I came up with the idea of using the ISBN, which is unique to each book, to obtain the book information. To do that, I needed to collect the ISBNs for Arabic books, so I decided to scrape both Neelwfrat and Diwan bookstores to gather all the ISBNs for the Arabic books. Once I collected the ISBNs, I was able to scrape the books from Goodreads using Selenium to automate the search for each ISBN and obtain the book information.
+In this phase, I plan to collect data from the most famous job sites in Egypt. I discovered that both Wuzzuf and Bayt are large sites from which I can scrape all available jobs.
 
 
 ## 👨‍💻 Phase 2 Data Cleaning:
-In this phase, I started with over 30,000 book titles. However, after the initial cleaning process, I ended up with 12,708 book titles that I had scraped from Goodreads. I removed duplicates and conducted further cleaning, which resulted in a final count of 10,500+ book titles that I used in my data analysis.
+In this phase, I attempted to clean the data as thoroughly as possible, including completing data from job requirements and descriptions, which was one of the most challenging cleaning tasks I have tackled. I used natural language processing to extract data from the text and complete the rows, doing everything necessary to make the data as clean as possible.
 
 
 ## 📊 Data Analysis and Visualization:
