@@ -22,6 +22,8 @@ In this project I have tried to practice my data analysis skills by getting data
 ## Website
 Live Demo: https://www.ahmedel-kady.com/jobs_project/jobs/
 
+![demo_image](https://ahmedel-kady.com/media/images/project_1.PNG)
+
 
 ## 💾 Phase 1 Data Collection:
 In this phase, I plan to collect data from the most famous job sites in Egypt. I discovered that both Wuzzuf and Bayt are large sites from which I can scrape all available jobs.
